@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CalculadoraCheckBox</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="numPrimero">Introduzca el primer número</string>
+	<string name="numSegundo">Introduzca el segundo número</string>
+	 
+	<string name="opcion1">Sumar</string>
+	<string name="opcion2">Restar</string>
+	<string name="opcion3">Multiplicar</string>
+
+	
+</resources>
